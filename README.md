@@ -1,4 +1,4 @@
-### **<div align="center">I'm Thomas 👋</div>**  
+### **<div align="center"> Hi I'm Thomas 👋</div>**  
   
 
 - 📚 I'm currently a student of 42 School Lyon  
