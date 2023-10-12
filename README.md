@@ -4,7 +4,9 @@
 - 🔭 I’m currently working on [Matcha](https://github.com/tgrangeo/matcha)
 
 - 🌱 I’m currently learning **Go** with [Gophercices](https://github.com/tgrangeo/Gophercises)
-
+  
+- 📈 I enjoy training on [Exercism](https://exercism.org/profiles/tgrangeo)
+  
 - 👨‍💻 All of my projects are available at [tgrangeo.com](https://tgrangeo.com/)
 
 - 📫 How to reach me **thomas.grangeon9@gmail.com**
