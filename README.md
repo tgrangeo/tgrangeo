@@ -1,15 +1,24 @@
-<h1 align="center">Hi 👋, I'm Thomas</h1>
-<h3 align="center">I'm a 42 student on a mission to dive deep into the world of coding. My main areas of interest revolve around back-end development, DevOps, and security, but I also have a soft spot for crafting engaging front-end experiences. Join me on my journey to explore the endless possibilities of code!</h3>
-
-- 🔭 I’m currently working on [Matcha](https://github.com/tgrangeo/matcha)
-
-- 🌱 I’m currently learning **Go** with [Gophercices](https://github.com/tgrangeo/Gophercises)
-  
-- 📈 I enjoy training on [Exercism](https://exercism.org/profiles/tgrangeo)
-  
-- 👨‍💻 All of my projects are available at [tgrangeo.com](https://tgrangeo.com/)
-
-- 📫 How to reach me **thomas.grangeon9@gmail.com**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+                                                                                
+                                                                                
+                                (((   #((#   #((                                
+                         .(((( #((((((((((((((((( ((((,                         
+                    (((, (((((((((((((((((((((((((((((( .#((                    
+                    ((((((((((((((((((((((((((((((((((((((((                    
+               ((((((((((((((((((((((((((((((((((((((((((((((((((,              
+               #((((((((((((((((((((((((((((((((((((((((((((((((#               
+          #((((((((((((((((((((((((((((((((((((((((((((((((((((((((((#          
+           (((((((((((((((((((((((((((((((((((((((((((((((((((((((((#           
+        /(#((((((((((((((((((((((((((((((((((((((((((((((((((((((((((#(*        
+        ((((((((((((((((((((((*  @@@@((((((((#  #@@#((((((((((((((((((((        
+        ,((((((((((((((((((((&   .@@@@((((((@/   @@@%((((((((((((((((((#        
+      (((((((((((((((((((((((@@@@@@@@@((((((@@@@@@@@@(((((((((((((((((((((/     
+     (((((((((((((((((((((((((@@@@@@@((((((((@@@@@@&(((((((((((((((((((((((.    
+     ((((((((%%%%((((((((((((((((((((((((((((((((((((((((((((((%%%%%(((((((     
+      (((((((/%%%%((((%%%%%(((((((((((((((((((((((((((#%%%(((( (%%%#((((((      
+        ((((((. %%%,((((#  *(((((((((((#((((*./((((((#. #((((  %%% (((((#       
+          (((((   %/  #(((((((((((((((#    #(((((((((((((((   %*  *((((         
+            (((#        .(((((((((((((((  (((((((((((((((         (((/          
+              ((         #((((((          ,,      ((((((          (#            
+                           #(((((#              #(((((.                         
+                                .,.                                             
+                                                                               
