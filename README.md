@@ -1,1 +1,1 @@
-🧑‍💻 just probably a vibe coder.
+🧑‍💻 probably just a vibe coder.
